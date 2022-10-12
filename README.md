@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Basit
 - 👀 I’m in love with Data Science and all of its branches
-- 🌱 I’m currently working as a Machine Learning expert using PeoplePerHour
+- 🌱 I’m currently working as a Data Scientist using PeoplePerHour
 - 💞️ I’m looking to collaborate on anything related to ML/AI 
 - 📫 You can contact me @ abdemergency@gmail.com
 
