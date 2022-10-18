@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Abdul Basit
-- 👀 I’m in love with Data Science 
-- 🌱 I’m currently working as a Data Scientist using PeoplePerHour
+- 👀 Practicign Data Science
+- 🌱 Working on PeoplePerHour and Upwork
 - 💞️ I’m looking to collaborate on anything related to ML/AI 
-- 📫 You can contact me @ abdemergency@gmail.com
+- 📫 You can contact me @ 
+        Email Address : abasit20131@gmail.com
+        LinkedIn Profile : https://www.linkedin.com/in/abasit123/
+        PeoplePerHour Profile : https://bit.ly/3MFpy2o
+        
+
 
 <!---
 ABDATALIFE/ABDATALIFE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
