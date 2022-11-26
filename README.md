@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdul Basit
-- 👀 Practicign Data Science
+- 👀 Practicing Data Science
 - 🌱 Working on PeoplePerHour and Upwork
 - 💞️ I’m looking to collaborate on anything related to ML/AI 
 - 📫 You can contact me @ 
