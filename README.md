@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Abdul Basit
 - 👀 Practicing Data Science
 - 🎖️ Certified Google Data Analytics Professional
+- 🎖️ Certified AI Tensorflow Developer (DeepLearning.AI)
 - 🌱 Working on PeoplePerHour and Upwork
 - 💞️ I’m looking to collaborate on anything related to ML/AI 
 - 📫 You can contact me @ 
