@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Abdul Basit
-- 👀 Practicing Data Science
+- 👀 Practicing Data Science & Machine Learning
+- 🏅 MANGTAS Certified Machine Learning Engineer
 - 🎖️ Google Certified Data Analytics Professional
 - 🎖️ DeepLearning.AI Certified AI Tensorflow Developer 
 - 🏅 IBM Certified Applied AI Developer
